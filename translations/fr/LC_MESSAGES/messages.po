@@ -1,0 +1,168 @@
+# French translations for pelican-bootstrap3.
+# Copyright (C) 2015 Sébastien Villemot <sebastien@debian.org>
+# This file is distributed under the same license as the  project.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version:  pelican-bootstrap3\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2015-03-15 15:34+0100\n"
+"PO-Revision-Date: 2015-03-17 21:39+0100\n"
+"Last-Translator: Sébastien Villemot <sebastien@debian.org>\n"
+"Language-Team: fr <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n > 1)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 1.3\n"
+
+#: templates/archives.html:2 templates/archives.html:7 templates/base.html:146
+msgid "Archives"
+msgstr "Archives"
+
+#: templates/archives.html:14
+msgid "Archives for"
+msgstr "Archives pour"
+
+#: templates/article_list.html:14
+msgid "more ..."
+msgstr "plus…"
+
+#: templates/author.html:3
+msgid "Articles by"
+msgstr "Articles par"
+
+#: templates/author.html:9 templates/authors.html:3 templates/authors.html:9
+msgid "Authors"
+msgstr "Auteurs"
+
+#: templates/authors.html:15
+msgid "Authors on"
+msgstr "Auteurs sur"
+
+#: templates/base.html:101
+msgid "Toggle navigation"
+msgstr "Basculer la navigation"
+
+#: templates/categories.html:8 templates/category.html:11
+#: templates/includes/sidebar.html:41
+msgid "Categories"
+msgstr "Catégories"
+
+#: templates/categories.html:15
+msgid "All Categories for"
+msgstr "Toutes les catégories pour"
+
+#: templates/page.html:54
+msgid "get the pdf"
+msgstr "récupérer le PDF"
+
+#: templates/search.html:4
+msgid "Search"
+msgstr "Recherche"
+
+#: templates/tag.html:11 templates/tags.html:3 templates/tags.html:9
+#: templates/includes/sidebar.html:60 templates/includes/taglist.html:2
+msgid "Tags"
+msgstr "Étiquettes"
+
+#: templates/tags.html:16
+msgid "Tags for"
+msgstr "Étiquettes pour"
+
+#: templates/includes/aboutme.html:8
+msgid "About"
+msgstr "À propos de"
+
+#: templates/includes/article_info.html:2
+msgid "Date"
+msgstr "Date"
+
+#: templates/includes/article_info.html:8
+msgid "Modified"
+msgstr "Modifié"
+
+#: templates/includes/article_info.html:16
+msgid "By"
+msgstr "Par"
+
+#: templates/includes/article_info.html:22
+msgid "Category"
+msgstr "Catégorie"
+
+#: templates/includes/cc-license.html:56
+msgid " License"
+msgstr "<!>"
+
+#: templates/includes/cc-license.html:62
+msgid "Content"
+msgstr "Contenu"
+
+#: templates/includes/cc-license.html:64
+msgid "licensed under a"
+msgstr "distribué sous licence"
+
+#: templates/includes/cc-license.html:64
+msgid "except where indicated otherwise."
+msgstr "sauf indication contraire."
+
+#: templates/includes/comment_count.html:1
+msgid "View comments"
+msgstr "Voir les commentaires"
+
+#: templates/includes/comments.html:38
+msgid "comments powered by"
+msgstr "commentaires propulsés par"
+
+#: templates/includes/footer.html:11
+msgid "Powered by"
+msgstr "Propulsé par"
+
+#: templates/includes/footer.html:19
+msgid "Back to top"
+msgstr "Retour en haut"
+
+#: templates/includes/github.html:5
+msgid "Status updating..."
+msgstr "Mise à jour du statut…"
+
+#: templates/includes/github.html:8
+msgid "on GitHub"
+msgstr "sur GitHub"
+
+#: templates/includes/links.html:2
+msgid "Links"
+msgstr "Liens"
+
+#: templates/includes/pagination.html:7
+msgid "Newer"
+msgstr "Plus récents"
+
+#: templates/includes/pagination.html:11 templates/includes/pagination.html:13
+msgid "Older"
+msgstr "Plus anciens"
+
+#: templates/includes/related-posts.html:3
+msgid "Related Posts:"
+msgstr "Articles liés:"
+
+#: templates/includes/sidebar.html:8
+msgid "Social"
+msgstr "Réseaux sociaux"
+
+#: templates/includes/sidebar.html:27
+msgid "Recent Posts"
+msgstr "Articles récents"
+
+#: templates/includes/translations.html:3
+msgid "Lang"
+msgstr "Langue"
+
+#: templates/includes/twitter_timeline.html:3
+msgid "Latest Tweets"
+msgstr "Derniers tweets"
+
+#: templates/includes/twitter_timeline.html:5
+msgid "Tweets by"
+msgstr "Tweets par"
+

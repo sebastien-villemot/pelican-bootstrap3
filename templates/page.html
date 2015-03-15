@@ -51,7 +51,7 @@
         {{ translations.translations_for(page) }}
         {% if PDF_PROCESSOR %}
             <a href="{{ SITEURL }}/pdf/{{ page.slug }}.pdf">
-                get the pdf
+                {% trans %}get the pdf{% endtrans %}
             </a>
         {% endif %}
         <div class="entry-content">
