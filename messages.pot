@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2015-03-15 15:34+0100\n"
+"POT-Creation-Date: 2015-03-17 22:03+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -46,7 +46,7 @@ msgid "Toggle navigation"
 msgstr ""
 
 #: templates/categories.html:8 templates/category.html:11
-#: templates/includes/sidebar.html:41
+#: templates/includes/sidebar.html:44
 msgid "Categories"
 msgstr ""
 
@@ -63,7 +63,7 @@ msgid "Search"
 msgstr ""
 
 #: templates/tag.html:11 templates/tags.html:3 templates/tags.html:9
-#: templates/includes/sidebar.html:60 templates/includes/taglist.html:2
+#: templates/includes/sidebar.html:63 templates/includes/taglist.html:2
 msgid "Tags"
 msgstr ""
 
@@ -91,19 +91,19 @@ msgstr ""
 msgid "Category"
 msgstr ""
 
-#: templates/includes/cc-license.html:56
+#: templates/includes/cc-license.html:57
 msgid " License"
 msgstr ""
 
-#: templates/includes/cc-license.html:62
+#: templates/includes/cc-license.html:63
 msgid "Content"
 msgstr ""
 
-#: templates/includes/cc-license.html:64
+#: templates/includes/cc-license.html:65
 msgid "licensed under a"
 msgstr ""
 
-#: templates/includes/cc-license.html:64
+#: templates/includes/cc-license.html:65
 msgid "except where indicated otherwise."
 msgstr ""
 
@@ -151,7 +151,11 @@ msgstr ""
 msgid "Social"
 msgstr ""
 
-#: templates/includes/sidebar.html:27
+#: templates/includes/sidebar.html:20
+msgid "E-mail"
+msgstr ""
+
+#: templates/includes/sidebar.html:30
 msgid "Recent Posts"
 msgstr ""
 
