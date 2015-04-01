@@ -186,7 +186,7 @@ figure.floatcenter, .align-center {
     background: none repeat scroll 0 0 rgba(0, 0, 0, 0.7);
     display: inline;
     float: left;
-    max-width: 600px;
+    max-width: 700px;
     padding: 20px;
     position: relative;
     z-index: 1;
@@ -194,8 +194,8 @@ figure.floatcenter, .align-center {
 
 #banner h1 {
     color: #fff;
-    font-family: "HelveticaNeue-CondensedBold","Helvetica Neue CE 600 Condensed","Helvetica Neue LT Condensed","Helvetica Neue 600 Condensed","HelveticaNeue-BoldCondensed","Helvetica Neue BoldCondensed","Helvetica Neue",Helvetica,Arial,sans-serif;
-    font-size: 60px;
+    font-family: "News Cycle", "HelveticaNeue-CondensedBold","Helvetica Neue CE 600 Condensed","Helvetica Neue LT Condensed","Helvetica Neue 600 Condensed","HelveticaNeue-BoldCondensed","Helvetica Neue BoldCondensed","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 45px;
     font-stretch: condensed;
     font-weight: 700;
     line-height: 0.9;
@@ -203,6 +203,7 @@ figure.floatcenter, .align-center {
     text-transform: uppercase;
 }
 #banner .intro {
+    font-family: Georgia, "Times New Roman", Times, serif;
     color: #fff;
     font-size: 21px;
     line-height: 1.33;
@@ -213,7 +214,7 @@ figure.floatcenter, .align-center {
 }
 
 /* Solutions for mobile and small screens  */
-@media (max-width: 650px) {
+@media (max-width: 767px) {
     #banner h1{
        font-size: 30px; /* !important;*/
     }
